@@ -45,17 +45,13 @@ To run this notebook, you'll need a Python environment with TensorFlow and Keras
 
 The trained model achieves a good accuracy on the test set. Below are some visualizations from the training process and a sample prediction.
 
-### Training Loss vs. Validation Loss
 
-This plot shows how the model's loss decreased over epochs for both the training and validation datasets.
-
-![Loss Plot](./loss_plot.png)
 
 ### Training Accuracy vs. Validation Accuracy
 
 This plot illustrates the improvement in accuracy over epochs for both training and validation sets.
 
-![Accuracy Plot](./accuracy_plot.png)
+![Accuracy Plot]([./accuracy_plot.png](https://github.com/Qurat-17/MINIST_Classification/blob/24af980c78b946887907289e74f4af1989eb8215/Accuracy_plot.png))
 
 ### Sample Prediction
 
@@ -63,12 +59,4 @@ Here's an example of a test image along with its true label and the model's pred
 
 ![Sample Prediction]([./sample_prediction.png](https://github.com/Qurat-17/MINIST_Classification/blob/31b5eaa2370fdbc3ae4cefb21c39e39389f6c338/prediction_vs%20actual.png))
 
-*(Note: To generate these images for your repository, make sure to save the plots from the executed notebook cells as `loss_plot.png`, `accuracy_plot.png`, and `sample_prediction.png` in your repository's root directory.)*
-
-## Contributing
-
-Contributions are welcome! Please feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details. (If you have a `LICENSE` file, otherwise consider adding one.)
+*(Note: To generate these images for your repository, make sure to save the plots from the executed notebook cells as , `accuracy_plot.png`, and `sample_prediction.png` in your repository's root directory.)*
