@@ -61,7 +61,7 @@ This plot illustrates the improvement in accuracy over epochs for both training 
 
 Here's an example of a test image along with its true label and the model's predicted label.
 
-![Sample Prediction](./sample_prediction.png)
+![Sample Prediction]([./sample_prediction.png](https://github.com/Qurat-17/MINIST_Classification/blob/31b5eaa2370fdbc3ae4cefb21c39e39389f6c338/prediction_vs%20actual.png))
 
 *(Note: To generate these images for your repository, make sure to save the plots from the executed notebook cells as `loss_plot.png`, `accuracy_plot.png`, and `sample_prediction.png` in your repository's root directory.)*
 
