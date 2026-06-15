@@ -20,7 +20,7 @@ To run this notebook, you'll need a Python environment with TensorFlow and Keras
 1.  **Clone the Repository (if applicable):**
     ```bash
     git clone (https://github.com/Qurat-17/MINIST_Classification
-    cd<MINIST_Classification
+    cd MINIST_Classification
     ```
 
 2.  **Install Dependencies:**
